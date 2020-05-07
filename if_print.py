@@ -3,8 +3,8 @@
 
 i = 0
 if i < 0: 
-    print("i=", i, "Negative Number")
+    print("i=", i, "=> Negative Number")
 elif i > 0:
-    print("i=", i, "Positive Number")
+    print("i=", i, "=> Positive Number")
 else:
-    print("i=", i, "Zero")
+    print("i=", i, "=> Zero")
